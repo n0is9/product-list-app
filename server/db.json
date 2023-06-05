@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "imageUrl": "https://thumbs.dreamstime.com/b/black-cat-looking-square-type-74252030.jpg",
+      "name": "Space",
+      "count": "2",
+      "weight": "1700g",
+      "size": {
+        "width": "260",
+        "height": "320"
+      },
+      "id": 1
+    },
+    {
+      "imageUrl": "https://thumbs.dreamstime.com/b/homeless-animal-young-cat-sits-wooden-bench-park-square-composition-homeless-cat-sits-wooden-bench-park-173815197.jpg",
+      "name": "Leonardo",
+      "count": "1",
+      "weight": "2000g",
+      "size": {
+        "width": "360",
+        "height": "400"
+      },
+      "id": 2
+    },
+    {
+      "imageUrl": "https://thumbs.dreamstime.com/b/gray-fluffy-cat-blue-eyes-shot-close-up-square-image-173304539.jpg",
+      "name": "Sky",
+      "count": "1",
+      "weight": "2500g",
+      "size": {
+        "width": "360",
+        "height": "440"
+      },
+      "id": 3
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://thumbs.dreamstime.com/b/beautiful-blue-eyed-cat-14156707.jpg",
+      "name": "Meow",
+      "count": 4,
+      "size": {
+        "width": 280,
+        "height": 360
+      },
+      "weight": "900g"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://www.epsomavevet.com.au/wp-content/uploads/2022/06/Hyperthyroidism-Cat-Image-square.jpg",
+      "name": "King",
+      "count": 7,
+      "size": {
+        "width": 295,
+        "height": 380
+      },
+      "weight": "1600g"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://thumbs.dreamstime.com/b/cute-curious-ginger-tabby-cat-yellow-eyes-hanging-trunk-tree-square-144400798.jpg",
+      "name": "Ginger",
+      "count": 1,
+      "size": {
+        "width": 235,
+        "height": 320
+      },
+      "weight": "1200g"
+    },
+    {
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/57c4aca420099e3efb1bdafd/1536712423388-9TAMDPKI0P42HNQWGU4T/image-asset.jpeg",
+      "name": "Gerald",
+      "count": "1",
+      "weight": "4000g",
+      "size": {
+        "width": "300",
+        "height": "600"
+      },
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "productId": 1,
+      "description": "accustomed to the toilet tray",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 2,
+      "productId": 2,
+      "description": "favorite toy is a bag",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 3,
+      "productId": 3,
+      "description": "sleeps only in bed",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 4,
+      "productId": 4,
+      "description": "likes to run after dogs",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 5,
+      "productId": 5,
+      "description": "can do a relaxing massage",
+      "date": "14:00 22.08.2021"
+    },
+    {
+      "id": 6,
+      "productId": 6,
+      "description": "hunts mice",
+      "date": "14:00 22.08.2021"
+    }
+  ]
+}
