@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/product-list-app/static/css/main.eb550100.css",
+    "main.js": "/product-list-app/static/js/main.297d3772.js",
+    "static/media/logo.png": "/product-list-app/static/media/logo.f6b8da0d33663fb327c2.png",
+    "static/media/telegram.svg": "/product-list-app/static/media/telegram.dd3c735ebffee21fec13c9ccf271d11a.svg",
+    "static/media/gitHub.svg": "/product-list-app/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/linkedIn.svg": "/product-list-app/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/product-list-app/index.html",
+    "main.eb550100.css.map": "/product-list-app/static/css/main.eb550100.css.map",
+    "main.297d3772.js.map": "/product-list-app/static/js/main.297d3772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb550100.css",
+    "static/js/main.297d3772.js"
+  ]
+}
